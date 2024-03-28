@@ -1,0 +1,9 @@
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\bin\Debug\CapaDeEntidad.dll
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\bin\Debug\CapaDeEntidad.pdb
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\obj\Debug\CapaDeDa.D72029D7.Up2Date
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

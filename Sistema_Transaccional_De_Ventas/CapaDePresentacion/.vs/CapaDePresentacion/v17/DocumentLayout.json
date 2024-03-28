@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DA4591-4096-451E-AB8A-D9D13F2A407C}|..\\CapaDeDatos\\CapaDeDatos.csproj|c:\\users\\ruben\\onedrive\\desktop\\sistema_transaccional_de_ventas\\capadedatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34D5FA9-9DE3-437B-8E1C-79B9B6F76359}|..\\CapaDeNegocio\\CapaDeNegocio.csproj|c:\\users\\ruben\\onedrive\\desktop\\sistema_transaccional_de_ventas\\capadenegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7FA056-D2C5-47AF-A1DF-51A6EA7A813B}|CapaDePresentacion.csproj|C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7FA056-D2C5-47AF-A1DF-51A6EA7A813B}|CapaDePresentacion.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7FA056-D2C5-47AF-A1DF-51A6EA7A813B}|CapaDePresentacion.csproj|c:\\users\\ruben\\onedrive\\desktop\\sistema_transaccional_de_ventas\\capadepresentacion\\formusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7FA056-D2C5-47AF-A1DF-51A6EA7A813B}|CapaDePresentacion.csproj|solutionrelative:formusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7FA056-D2C5-47AF-A1DF-51A6EA7A813B}|CapaDePresentacion.csproj|C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\formusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C7FA056-D2C5-47AF-A1DF-51A6EA7A813B}|CapaDePresentacion.csproj|solutionrelative:formusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7FA056-D2C5-47AF-A1DF-51A6EA7A813B}|CapaDePresentacion.csproj|C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C7FA056-D2C5-47AF-A1DF-51A6EA7A813B}|CapaDePresentacion.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CN_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDeNegocio\\CN_Usuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeNegocio\\CN_Usuario.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDeNegocio\\CN_Usuario.cs",
+              "RelativeToolTip": "..\\CapaDeNegocio\\CN_Usuario.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwCYAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T23:19:25.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDeDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDeDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDeDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "..\\CapaDeDatos\\CD_Usuario.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:47:34.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\FormUsuarios.cs",
+              "RelativeDocumentMoniker": "FormUsuarios.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\FormUsuarios.cs",
+              "RelativeToolTip": "FormUsuarios.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T22:47:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\FormUsuarios.cs",
+              "RelativeDocumentMoniker": "FormUsuarios.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\FormUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T21:36:09.516Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:34:44.472Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\Desktop\\Sistema_Transaccional_De_Ventas\\CapaDePresentacion\\Inicio.cs",
+              "RelativeToolTip": "Inicio.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:45:38.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

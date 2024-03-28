@@ -1,0 +1,6 @@
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeEntidad\bin\Debug\CapaDeEntidad.dll
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeEntidad\bin\Debug\CapaDeEntidad.pdb
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeEntidad\obj\Debug\CapaDeEntidad.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeEntidad\obj\Debug\CapaDeEntidad.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeEntidad\obj\Debug\CapaDeEntidad.dll
+C:\Users\ruben\OneDrive\Desktop\Sistema_Transaccional_De_Ventas\CapaDeEntidad\obj\Debug\CapaDeEntidad.pdb

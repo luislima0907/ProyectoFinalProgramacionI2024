@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-CapaDePresentacion",
+      "appliesTo": "CapaDePresentacion/CapaDePresentacion.csproj",
+      "type": "msbuild"
+    },
+    {
+      "taskLabel": "tarea-CapaDePresentacion",
+      "appliesTo": "CapaDePresentacion/CapaDePresentacion.sln",
+      "type": "launch"
+    }
+  ]
+}
